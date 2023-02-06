@@ -1,0 +1,18 @@
+{
+    "name": "g28/g28-convert-image-to-webp",
+    "autoload": {
+        "psr-4": {
+            "G28\\ConvertImageToWebp\\": "src/"
+        },
+        "files": [
+            "src/startup.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Guilherme Pereira",
+            "email": "guilherme00pereira@gmail.com"
+        }
+    ],
+    "require": {}
+}
